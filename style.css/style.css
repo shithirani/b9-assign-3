@@ -1,0 +1,21 @@
+.program-1{
+   background-image: linear-gradient(45deg ,rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    url('../Images/2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.program-2{
+   background-image: linear-gradient(45deg ,rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    url('../Images/2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.program-3{
+   background-image: linear-gradient(45deg ,rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    url('../Images/3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
